@@ -1,0 +1,6 @@
+# requirements.txt
+mcp>=0.1.0
+requests>=2.31.0
+edgegrid-python>=1.3.1
+
+
